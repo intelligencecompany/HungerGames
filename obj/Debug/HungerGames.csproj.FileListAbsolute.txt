@@ -1,0 +1,7 @@
+C:\Users\gijs_\source\repos\HungerGames\HungerGames\bin\Debug\HungerGames.exe.config
+C:\Users\gijs_\source\repos\HungerGames\HungerGames\bin\Debug\HungerGames.exe
+C:\Users\gijs_\source\repos\HungerGames\HungerGames\bin\Debug\HungerGames.pdb
+C:\Users\gijs_\source\repos\HungerGames\HungerGames\obj\Debug\HungerGames.csprojAssemblyReference.cache
+C:\Users\gijs_\source\repos\HungerGames\HungerGames\obj\Debug\HungerGames.csproj.CoreCompileInputs.cache
+C:\Users\gijs_\source\repos\HungerGames\HungerGames\obj\Debug\HungerGames.exe
+C:\Users\gijs_\source\repos\HungerGames\HungerGames\obj\Debug\HungerGames.pdb
